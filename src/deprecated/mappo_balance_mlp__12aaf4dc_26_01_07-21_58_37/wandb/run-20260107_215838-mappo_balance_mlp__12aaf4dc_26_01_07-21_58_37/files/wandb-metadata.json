@@ -1,0 +1,35 @@
+{
+  "os": "macOS-26.2-arm64-arm-64bit",
+  "python": "CPython 3.11.14",
+  "startedAt": "2026-01-07T20:58:38.566851Z",
+  "program": "benchmarl/abs_project/main.ipynb",
+  "codePath": "benchmarl/abs_project/main.ipynb",
+  "git": {
+    "remote": "git@github.com:Itonkdong/abs-project.git",
+    "commit": "7e1e0eaa402551398d9aa3b1f3a65bea264365a5"
+  },
+  "root": "/Users/andrea/Projects/abs/abs-project/benchmarl/abs_project/mappo_balance_mlp__12aaf4dc_26_01_07-21_58_37",
+  "host": "4",
+  "executable": "/Users/andrea/miniconda3/envs/abs-project/bin/python",
+  "cpu_count": 12,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "183486795776"
+    }
+  },
+  "memory": {
+    "total": "25769803776"
+  },
+  "apple": {
+    "name": "Apple M4 Pro",
+    "ecpuCores": 4,
+    "pcpuCores": 8,
+    "gpuCores": 16,
+    "memoryGb": 24,
+    "swapTotalBytes": "2147483648",
+    "ramTotalBytes": "25769803776"
+  },
+  "writerId": "xmtyvmqlyktlwru9y3eooxps1f3h3dhj"
+}
